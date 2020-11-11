@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+files-backup/comment.xlsx
+files-backup/商品评论-20201110.xlsx
+main.spec
